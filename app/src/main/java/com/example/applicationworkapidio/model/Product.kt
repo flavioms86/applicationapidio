@@ -10,5 +10,5 @@ data class Product (
     @SerializedName("primage")
     val prImage: String,
     @SerializedName("prprice")
-    val prPrice: String
+    val prPriceL: String
     )
